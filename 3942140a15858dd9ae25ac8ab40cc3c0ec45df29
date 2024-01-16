@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "722ed4bd_df17a184",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020779
+      },
+      "writtenOn": "2024-01-16T12:16:56Z",
+      "side": 1,
+      "message": "This is the first iteration to collect data from Gerrit Code Review for statistical and analytics purposes.",
+      "revId": "3942140a15858dd9ae25ac8ab40cc3c0ec45df29",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
